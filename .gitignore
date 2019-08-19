@@ -4,3 +4,4 @@ server/response.wav
 server/playback.wav
 node_modules
 npm-debug.log
+.idea
